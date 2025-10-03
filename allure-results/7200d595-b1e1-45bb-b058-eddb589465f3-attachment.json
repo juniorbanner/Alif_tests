@@ -1,5 +1,5 @@
 {
-    "id": "68d426cf57204a47d0d26eba",
+    "id": "68df6ad363701260b9b620fd",
     "cart_items": [],
     "moderated_cart_items": [
         {
@@ -79,10 +79,12 @@
                 "has_alif_mobi_native_payment": true
             },
             "quantity": 1,
-            "warehouse_quantity": 925,
+            "warehouse_quantity": 901,
             "is_visible": true,
             "in_fulfillment_center": false,
             "category_name": "Смартфоны Apple ",
+            "category_id": 853,
+            "parcel_locker_storable": true,
             "brand_name": "Apple",
             "purchase_restrictions": null
         }

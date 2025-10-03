@@ -1,0 +1,1 @@
+Это секретный base_url: https://gw.alifshop.uz

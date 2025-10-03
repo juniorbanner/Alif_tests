@@ -15,7 +15,7 @@
                 "slug": "smartfon-apple-iphone-16-pro-max-256-gb-nanosim-esim-desert-titanium-1749457670",
                 "name": "Смартфон Apple iPhone 16 Pro Max 256 ГБ (nanoSim+eSim), Desert Titanium",
                 "price": 1688000000,
-                "quantity": 925,
+                "quantity": 901,
                 "raw_old_price": 2200000000,
                 "old_price": 2200000000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1189/1749457253-optimize.jpg",
@@ -41,24 +41,24 @@
             },
             {
                 "offer_id": null,
-                "moderated_offer_id": "a57a02e4-cbb0-476b-ab3e-713a1682ef1d",
+                "moderated_offer_id": "2c82757e-390a-4de2-bde0-f0c9ed0f44b4",
                 "product_id": null,
-                "slug": "noutbuk-hp-omnibook-5-flip-14-fp0023dx-6q7-u7-150u-16-gb-ssd-512-gb-14-serebristiy-1754997504",
-                "name": "Ноутбук HP OmniBook 5 Flip 14-fp0023dx (6Q7) / U7-150U / 16 GB / SSD 512 GB / 14\",  серебристый ",
-                "price": 1039900000,
-                "quantity": 97,
-                "raw_old_price": 1399900000,
-                "old_price": 1399900000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1189/1754992325-9gf4py1fhl1en03tvtabd91ac9oz5vyq.png",
+                "slug": "televizor-sonor-32snr-100s-32-hd-android-tv-c",
+                "name": "Телевизор Sonor 32SNR/100S 32\" HD Android TV, чёрный ",
+                "price": 99900000,
+                "quantity": 100,
+                "raw_old_price": 174800000,
+                "old_price": 174800000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1206/1759401313-Frame 141.png",
                 "has_video_links": false,
                 "label": null,
-                "discount": -25,
+                "discount": -42,
                 "partner": {
-                    "id": 1189,
-                    "name": "BIRINCHI"
+                    "id": 1206,
+                    "name": "MOBS"
                 },
                 "condition": {
-                    "id": 40268,
+                    "id": 30586,
                     "duration": 24,
                     "commission": 75,
                     "prepayment": 0
@@ -72,8 +72,8 @@
                 "product_id": null,
                 "slug": "smartfon-samsung-galaxy-s25-ultra-12-256-gb-cherniy-1737950300",
                 "name": "Смартфон  Samsung Galaxy  S25 Ultra 12/256 ГБ, черный ",
-                "price": 1475000000,
-                "quantity": 10,
+                "price": 1490000000,
+                "quantity": 7,
                 "raw_old_price": 1830000000,
                 "old_price": 1830000000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-813/1749455125-alif s25.jpg",
@@ -83,7 +83,7 @@
                     "text_ru": "+Power Bank",
                     "text_uz": "+Power Bank"
                 },
-                "discount": -19,
+                "discount": -18,
                 "partner": {
                     "id": 813,
                     "name": "REBUS"
@@ -99,28 +99,28 @@
             },
             {
                 "offer_id": null,
-                "moderated_offer_id": "626d8650-ad10-4b72-a013-59e84f470f00",
+                "moderated_offer_id": "d62723d3-308b-45cb-99cd-a9ffba5da194",
                 "product_id": null,
-                "slug": "smartfon-honor-x7d-6-128-gb-cherniy-1757583950",
-                "name": "Смартфон  Honor X7D 6/128 ГБ, черный",
-                "price": 207500000,
-                "quantity": 8,
-                "raw_old_price": 285000000,
-                "old_price": 285000000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1232/1757582989-x7dblack.png",
-                "has_video_links": false,
+                "slug": "smartfon-infinix-note-50-pro-12-256-gb-cherniy-1759137538",
+                "name": "Смартфон Infinix Note 50 Pro 12/256 ГБ, черный",
+                "price": 329000000,
+                "quantity": 110,
+                "raw_old_price": 400000000,
+                "old_price": 400000000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-139/1744638534-66.png",
+                "has_video_links": true,
                 "label": {
-                    "id": 157,
-                    "text_ru": "Новинка",
-                    "text_uz": "Yangilik"
+                    "id": 97,
+                    "text_ru": "+гифтбокс",
+                    "text_uz": "+giftbox"
                 },
-                "discount": -27,
+                "discount": -17,
                 "partner": {
-                    "id": 1232,
-                    "name": "KUIKO"
+                    "id": 139,
+                    "name": "JOYBOX"
                 },
                 "condition": {
-                    "id": 19876,
+                    "id": 40246,
                     "duration": 24,
                     "commission": 75,
                     "prepayment": 0
@@ -130,24 +130,24 @@
             },
             {
                 "offer_id": null,
-                "moderated_offer_id": "a6e8753f-e3ef-4272-ab0c-8d1c7f3d60b8",
+                "moderated_offer_id": "7d24fac7-2b8d-43fb-83f9-50bee41b5d64",
                 "product_id": null,
-                "slug": "smartfon-samsung-galaxy-a16-6-128-gb-seriy-1757493022",
-                "name": "Смартфон  Samsung Galaxy A16 6/128 ГБ, серый",
-                "price": 216000000,
-                "quantity": 19,
-                "raw_old_price": 264900000,
-                "old_price": 264900000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-842/1757491170-photo_7_2025-09-10_12-56-17.jpg",
+                "slug": "smartfon-samsung-galaxy-a17-6-128-gb-gray-1758776000",
+                "name": "Смартфон  Samsung Galaxy A17 6/128 ГБ, Gray",
+                "price": 224900000,
+                "quantity": 16,
+                "raw_old_price": 240000000,
+                "old_price": 240000000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-857/1758781887-Galaxy A17_-1.jpg",
                 "has_video_links": false,
                 "label": null,
-                "discount": -18,
+                "discount": -6,
                 "partner": {
-                    "id": 842,
-                    "name": "ON/OFF"
+                    "id": 857,
+                    "name": "RADIUS MOBILE"
                 },
                 "condition": {
-                    "id": 37405,
+                    "id": 20090,
                     "duration": 24,
                     "commission": 75,
                     "prepayment": 0
@@ -161,14 +161,14 @@
                 "product_id": 76462,
                 "slug": "umnie-chasi-apple-watch-series-10-46-mm-gps-jet-black-aluminum-case-with-black-sport-band-s-m-apple-1750157487-76462",
                 "name": "Умные часы Apple Watch Series 10 46 мм GPS, Jet Black Aluminum Case with Black Sport Band (S/M)",
-                "price": 555500000,
+                "price": 580000000,
                 "quantity": 5,
                 "raw_old_price": 696918000,
                 "old_price": 696918000,
                 "image_path": "https://s3.fortifai.uz/shop/catalog/product/76462/1728293915-1726220037-HdxLN4k2N5kfkAZIE9vJsFojUSXzXaIk0FMrzbbe.webp",
                 "has_video_links": false,
                 "label": null,
-                "discount": -20,
+                "discount": -16,
                 "partner": {
                     "id": 1258,
                     "name": " PRO ALLIENCE"
@@ -200,7 +200,7 @@
                 "slug": "smartfon-apple-iphone-17-pro-max-256-gb-deep-blue-1757588356",
                 "name": "Смартфон Apple iPhone 17 Pro Max 256 ГБ, Deep Blue ",
                 "price": 2599000000,
-                "quantity": 100,
+                "quantity": 98,
                 "raw_old_price": 3700000000,
                 "old_price": 3700000000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1189/1757586412-96fr7x2kzqsjlz8mcf71kch3hnj1j65h.jpg",
@@ -334,14 +334,14 @@
                 "product_id": null,
                 "slug": "smartfon-apple-iphone-17-pro-256-gb-deep-blue-1757588548",
                 "name": "Смартфон Apple iPhone 17 Pro 256 ГБ, Deep Blue",
-                "price": 2499000000,
+                "price": 2999000000,
                 "quantity": 100,
                 "raw_old_price": 2999000000,
-                "old_price": 2999000000,
+                "old_price": null,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1189/1757583317-photo_2025-09-11_14-34-54.jpg",
                 "has_video_links": false,
                 "label": null,
-                "discount": -16,
+                "discount": null,
                 "partner": {
                     "id": 1189,
                     "name": "BIRINCHI"
@@ -373,7 +373,7 @@
                 "slug": "televizor-artel-a32nha900-cherniy-1754560912",
                 "name": "Телевизор Artel A32NHA900, черный",
                 "price": 189440000,
-                "quantity": 67,
+                "quantity": 66,
                 "raw_old_price": 237000000,
                 "old_price": 237000000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1315/1754556168-photo_2025-08-07_13-30-57.jpg",
@@ -395,12 +395,66 @@
             },
             {
                 "offer_id": null,
+                "moderated_offer_id": "bc283cdb-4621-4817-b551-fa9492bbce4c",
+                "product_id": null,
+                "slug": "pilesos-ferre-hvc-8213-beliy-1757415948",
+                "name": "Пылесос Ferre HVC-8213, белый",
+                "price": 46900000,
+                "quantity": 4,
+                "raw_old_price": 69900000,
+                "old_price": 69900000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-842/1757403291-photo_2025-09-09_12-34-46.jpg",
+                "has_video_links": false,
+                "label": null,
+                "discount": -32,
+                "partner": {
+                    "id": 842,
+                    "name": "ON/OFF"
+                },
+                "condition": {
+                    "id": 37405,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "899393cc-d16b-4fd7-8f8c-bd4532f77014",
+                "product_id": null,
+                "slug": "smart-televizor-moonx-smart-32-32m850-cherniy-1739522978",
+                "name": "Смарт телевизор Moonx Smart 32\" 32M850, черный",
+                "price": 134900000,
+                "quantity": 10,
+                "raw_old_price": 200000000,
+                "old_price": 200000000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-842/1739518901-1676568866.jpg",
+                "has_video_links": false,
+                "label": null,
+                "discount": -32,
+                "partner": {
+                    "id": 842,
+                    "name": "ON/OFF"
+                },
+                "condition": {
+                    "id": 37405,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
                 "moderated_offer_id": "d786d19f-0c9a-42fd-8f50-8470acf3b17a",
                 "product_id": null,
                 "slug": "pilesos-ferre-hvc-8213-siniy-1740983204",
                 "name": "Пылесос Ferre HVC-8213, синий",
                 "price": 46900000,
-                "quantity": 2,
+                "quantity": 1,
                 "raw_old_price": 69900000,
                 "old_price": 69900000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-842/1740981343-FERRE BCD-275 IX2007272 (2).jpg",
@@ -427,7 +481,7 @@
                 "slug": "kuler-dlya-vodi-wellstars-1199-silver-electr-serebristiy-1753937636",
                 "name": "Кулер для воды Wellstars 1199 Silver Electr, серебристый",
                 "price": 69900000,
-                "quantity": 34,
+                "quantity": 30,
                 "raw_old_price": 124000000,
                 "old_price": 124000000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-584/1753779636-1.JPG",
@@ -449,80 +503,26 @@
             },
             {
                 "offer_id": null,
-                "moderated_offer_id": "4d651194-efb0-43c9-8790-2a69d47bfec3",
+                "moderated_offer_id": "1aa58628-ee72-4ab6-9774-f9d2f6158afe",
                 "product_id": null,
-                "slug": "televizor-hisense-43a-573af-cherniy-1753676860",
-                "name": "Телевизор Hisense 43A 573AF, черный ",
-                "price": 297900000,
-                "quantity": 2,
-                "raw_old_price": 369900000,
-                "old_price": 369900000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1312/1753271023-43A5730FA.PNG",
-                "has_video_links": false,
-                "label": null,
-                "discount": -19,
-                "partner": {
-                    "id": 1312,
-                    "name": "WAK DISTRIBUTION"
-                },
-                "condition": {
-                    "id": 39108,
-                    "duration": 24,
-                    "commission": 75,
-                    "prepayment": 0
-                },
-                "bnpl_details": null,
-                "purchase_restrictions": null
-            },
-            {
-                "offer_id": null,
-                "moderated_offer_id": "c3bab5e7-78a4-45f5-98aa-d9afbcfe26c9",
-                "product_id": null,
-                "slug": "pilesos-s-konteynerom-dlya-pili-magna-vch2120bb-compact-series-cherniy-1752232876",
-                "name": "Пылесос с контейнером для пыли Magna VCH2120BB Compact Series, черный",
-                "price": 64900000,
-                "quantity": 7,
-                "raw_old_price": null,
-                "old_price": null,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-555/1752229897-111.png",
-                "has_video_links": false,
-                "label": null,
-                "discount": null,
-                "partner": {
-                    "id": 555,
-                    "name": "GOODZONE"
-                },
-                "condition": {
-                    "id": 40204,
-                    "duration": 18,
-                    "commission": 56,
-                    "prepayment": 0
-                },
-                "bnpl_details": null,
-                "purchase_restrictions": null
-            },
-            {
-                "offer_id": null,
-                "moderated_offer_id": "40a7f723-d971-4f38-b6af-c88988c07d3a",
-                "product_id": null,
-                "slug": "kofevarka-winning-star-st-9711-ch-rniy-1746002788",
-                "name": "Кофеварка Winning Star ST-9711 , Чёрный",
-                "price": 25900000,
-                "quantity": 2,
-                "raw_old_price": 31080000,
-                "old_price": 31080000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-555/1745993460-cvrs0r6i4n37npao1b90.png",
+                "slug": "stiraljnaya-mashina-loretto-lw-6007bldc-g-g-seriy-1753424058",
+                "name": "Стиральная машина Loretto LW-6007BLDC-G G, серый",
+                "price": 299900000,
+                "quantity": 24,
+                "raw_old_price": 359900000,
+                "old_price": 359900000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1206/1752580169-ChatGPT Image 15 июл. 2025 г., 16_31_52 1.png",
                 "has_video_links": false,
                 "label": null,
                 "discount": -16,
                 "partner": {
-                    "id": 555,
-                    "name": "GOODZONE"
+                    "id": 1206,
+                    "name": "MOBS"
                 },
                 "condition": {
-                    "id": 40204,
-                    "duration": 18,
-                    "commission": 56,
+                    "id": 30586,
+                    "duration": 24,
+                    "commission": 75,
                     "prepayment": 0
                 },
                 "bnpl_details": null,
@@ -541,78 +541,16 @@
         "offers": [
             {
                 "offer_id": null,
-                "moderated_offer_id": "8aed5aef-1072-4056-86f8-1f0d8f054594",
-                "product_id": null,
-                "slug": "begovaya-dorozhka-genau-x30-ch-rniy-1749550722",
-                "name": "Беговая дорожка Genau X30, чёрный",
-                "price": 377900000,
-                "quantity": 13,
-                "raw_old_price": 856000000,
-                "old_price": 856000000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1191/1752729115-x30 _new_ (2).jpg",
-                "has_video_links": false,
-                "label": {
-                    "id": 21,
-                    "text_ru": "суперцена",
-                    "text_uz": "ajoyib narx"
-                },
-                "discount": -55,
-                "partner": {
-                    "id": 1191,
-                    "name": "GENAU"
-                },
-                "condition": {
-                    "id": 29826,
-                    "duration": 24,
-                    "commission": 75,
-                    "prepayment": 0
-                },
-                "bnpl_details": null,
-                "purchase_restrictions": null
-            },
-            {
-                "offer_id": null,
-                "moderated_offer_id": "333afe56-3b34-428b-b9aa-951a7d4d73aa",
-                "product_id": null,
-                "slug": "velotrenazher-genau-spin-bike-w101-ch-rniy-1750243592",
-                "name": "Велотренажер Genau Spin Bike W101, чёрный",
-                "price": 218500000,
-                "quantity": 4,
-                "raw_old_price": 396300000,
-                "old_price": 396300000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1191/1752752337-w101 копия.jpg",
-                "has_video_links": false,
-                "label": {
-                    "id": 21,
-                    "text_ru": "суперцена",
-                    "text_uz": "ajoyib narx"
-                },
-                "discount": -44,
-                "partner": {
-                    "id": 1191,
-                    "name": "GENAU"
-                },
-                "condition": {
-                    "id": 29826,
-                    "duration": 24,
-                    "commission": 75,
-                    "prepayment": 0
-                },
-                "bnpl_details": null,
-                "purchase_restrictions": null
-            },
-            {
-                "offer_id": null,
                 "moderated_offer_id": "aad56f9e-fecd-48d1-828f-f8038fc61d05",
                 "product_id": null,
                 "slug": "inversionniy-stol-genau-black-ch-rniy-1750155472",
                 "name": "Инверсионный стол Genau black, чёрный",
                 "price": 227900000,
-                "quantity": 15,
+                "quantity": 6,
                 "raw_old_price": 499700000,
                 "old_price": 499700000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1191/1752755520-1.png",
-                "has_video_links": false,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1191/1759122291-image 2738.png",
+                "has_video_links": true,
                 "label": {
                     "id": 21,
                     "text_ru": "суперцена",
@@ -661,18 +599,45 @@
             },
             {
                 "offer_id": null,
+                "moderated_offer_id": "0d10f86b-755f-4fe2-9a85-0223a03115ac",
+                "product_id": null,
+                "slug": "uvlazhnitelj-vozduha-genau-uv-6l-beliy-1753270106",
+                "name": "Увлажнитель воздуха Genau УВ 6L , белый",
+                "price": 131900000,
+                "quantity": 10,
+                "raw_old_price": 304900000,
+                "old_price": 304900000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1191/1759127227-1.png",
+                "has_video_links": true,
+                "label": null,
+                "discount": -56,
+                "partner": {
+                    "id": 1191,
+                    "name": "GENAU"
+                },
+                "condition": {
+                    "id": 29826,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
                 "moderated_offer_id": "060defd0-4070-4140-95e7-35b96c49c5ce",
                 "product_id": null,
                 "slug": "massazher-genau-charmer-beliy-salatoviy-1752483874",
                 "name": "Массажер Genau Charmer , белый/салатовый ",
-                "price": 72500000,
+                "price": 64900000,
                 "quantity": 1,
                 "raw_old_price": 74900000,
                 "old_price": 74900000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1191/1752476489-Генеративная заливка.png",
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1191/1759131006-59687835.png",
                 "has_video_links": true,
                 "label": null,
-                "discount": -3,
+                "discount": -13,
                 "partner": {
                     "id": 1191,
                     "name": "GENAU"
@@ -696,10 +661,37 @@
                 "quantity": 7,
                 "raw_old_price": 499700000,
                 "old_price": 499700000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1191/1752755668-1.png",
-                "has_video_links": false,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1191/1759123779-image 2751.png",
+                "has_video_links": true,
                 "label": null,
                 "discount": -54,
+                "partner": {
+                    "id": 1191,
+                    "name": "GENAU"
+                },
+                "condition": {
+                    "id": 29826,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "2b3abbbb-5163-430c-9e4b-468aa09ee542",
+                "product_id": null,
+                "slug": "uvlazhnitelj-vozduha-genau-uv-20l-beliy-1750316084",
+                "name": "Увлажнитель воздуха Genau УВ 20L , белый",
+                "price": 232900000,
+                "quantity": 6,
+                "raw_old_price": 609400000,
+                "old_price": 609400000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1191/1759125338-59667207.png",
+                "has_video_links": true,
+                "label": null,
+                "discount": -61,
                 "partner": {
                     "id": 1191,
                     "name": "GENAU"
@@ -731,7 +723,7 @@
                 "slug": "noutbuk-chuwi-herobook-plus-intel-celeron-n4020-8-gb-ssd-256-gb-15-6-seriy-1754029986",
                 "name": "Ноутбук CHUWI HeroBook Plus / Intel Celeron N4020 / 8 GB / SSD 256 GB / 15.6\", серый",
                 "price": 283900000,
-                "quantity": 143,
+                "quantity": 127,
                 "raw_old_price": 370000000,
                 "old_price": 370000000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-139/1753796180-123123123132.png",
@@ -779,33 +771,6 @@
                 "purchase_restrictions": null
             },
             {
-                "offer_id": 685900,
-                "moderated_offer_id": null,
-                "product_id": 69065,
-                "slug": "noutbuk-lenovo-v15-igl-82c300inak-seleron-n40-lenovo-1",
-                "name": "Ноутбук Lenovo V15 IGL (82C300INAK) / Сeleron N4020 / 4GB / SSD 256GB / 15.6\", серый",
-                "price": 355500000,
-                "quantity": 2,
-                "raw_old_price": 412380000,
-                "old_price": 412380000,
-                "image_path": "https://s3.fortifai.uz/shop/products/kkljrt51Fhjnr37Hapho8jkh03YKzYrC4E9r2dzT.jpg",
-                "has_video_links": false,
-                "label": null,
-                "discount": -13,
-                "partner": {
-                    "id": 813,
-                    "name": "REBUS"
-                },
-                "condition": {
-                    "id": 32961,
-                    "duration": 24,
-                    "commission": 75,
-                    "prepayment": 0
-                },
-                "bnpl_details": null,
-                "purchase_restrictions": null
-            },
-            {
                 "offer_id": null,
                 "moderated_offer_id": "107c28f8-0296-45e8-a82e-800aac478d74",
                 "product_id": null,
@@ -839,7 +804,7 @@
                 "slug": "noutbuk-hp-15s-fq0007nia-2zf-b22zfea-n4120-4-gb-ssd-256-gb-15-6-serebristiy-1747998994",
                 "name": "Ноутбук HP 15s-fq0007nia (2ZF) B22ZFEA / N4120 / 4 GB / SSD 256 GB / 15.6\", серебристый",
                 "price": 459900000,
-                "quantity": 4,
+                "quantity": 5,
                 "raw_old_price": null,
                 "old_price": null,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-813/1744104659-photo_2025-04-08_14-29-22.jpg",
@@ -885,6 +850,33 @@
                 },
                 "bnpl_details": null,
                 "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "01e98b82-3ed2-4d17-ba63-7bc042648840",
+                "product_id": null,
+                "slug": "noutbuk-hp-probook-450-g10-i5-1335u-16-gb-ssd-512-gb-15-6-serebristiy-1751376834",
+                "name": "Ноутбук HP Probook 450 G10 / i5-1335U / 16 GB / SSD 512 GB / 15.6\", серебристый",
+                "price": 975000000,
+                "quantity": 100,
+                "raw_old_price": null,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1189/1751372536-299m5v97x7fz5vv8oi5o5lpk1jbi96lr.png",
+                "has_video_links": true,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 1189,
+                    "name": "BIRINCHI"
+                },
+                "condition": {
+                    "id": 40268,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
             }
         ]
     },
@@ -904,13 +896,13 @@
                 "slug": "izmeljchitelj-artel-art-hb-1013-serebristiy-1758180264",
                 "name": "Измельчитель Artel ART-HB-1013, серебристый",
                 "price": 52920000,
-                "quantity": 32,
-                "raw_old_price": null,
-                "old_price": null,
+                "quantity": 31,
+                "raw_old_price": 79900000,
+                "old_price": 79900000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1315/1758092734-1.jpg",
                 "has_video_links": false,
                 "label": null,
-                "discount": null,
+                "discount": -33,
                 "partner": {
                     "id": 1315,
                     "name": "ZUZU STORE"
@@ -931,7 +923,7 @@
                 "slug": "blender-shivaki-sh-hb-1011-serebristiy-1754567074",
                 "name": "Блендер Shivaki SH‑HB‑1011 , серебристый",
                 "price": 55050000,
-                "quantity": 11,
+                "quantity": 10,
                 "raw_old_price": 71000000,
                 "old_price": 71000000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1315/1754473523-Ub-Q6AUS7UMCgQCsnTDlekPBnkaSqpKs.jpg",
@@ -958,13 +950,40 @@
                 "slug": "izmeljchitelj-artel-art-fc-702-biryuzoviy-1758614684",
                 "name": "Измельчитель Artel ART-FC-702 , бирюзовый",
                 "price": 42240000,
-                "quantity": 100,
-                "raw_old_price": null,
-                "old_price": null,
+                "quantity": 99,
+                "raw_old_price": 69900000,
+                "old_price": 69900000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1315/1758184380-393509d4-01ce-42ab-9eb5-20d53b1be5e9_Artboard-1.jpg",
                 "has_video_links": false,
                 "label": null,
-                "discount": null,
+                "discount": -39,
+                "partner": {
+                    "id": 1315,
+                    "name": "ZUZU STORE"
+                },
+                "condition": {
+                    "id": 40268,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "ab6b8852-5efc-4399-b88e-676f42967a51",
+                "product_id": null,
+                "slug": "televizor-artel-a32nha900-cherniy-1754560912",
+                "name": "Телевизор Artel A32NHA900, черный",
+                "price": 189440000,
+                "quantity": 66,
+                "raw_old_price": 237000000,
+                "old_price": 237000000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1315/1754556168-photo_2025-08-07_13-30-57.jpg",
+                "has_video_links": false,
+                "label": null,
+                "discount": -20,
                 "partner": {
                     "id": 1315,
                     "name": "ZUZU STORE"
@@ -986,12 +1005,12 @@
                 "name": "Утюг Artel SI-8885, черный",
                 "price": 33280000,
                 "quantity": 100,
-                "raw_old_price": null,
-                "old_price": null,
+                "raw_old_price": 49900000,
+                "old_price": 49900000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1315/1758184773-84645685-4caf-4507-be48-960197a9399c_Монтажная-область-11300.jpg",
                 "has_video_links": false,
                 "label": null,
-                "discount": null,
+                "discount": -33,
                 "partner": {
                     "id": 1315,
                     "name": "ZUZU STORE"
@@ -1007,45 +1026,18 @@
             },
             {
                 "offer_id": null,
-                "moderated_offer_id": "19b80de6-dbfe-4aeb-b77d-e0d49504f35e",
+                "moderated_offer_id": "7c49d827-c564-40c0-a2e3-42d880aa6f9e",
                 "product_id": null,
-                "slug": "utyug-artel-art-si-9500-rozovo-beliy-1758262276",
-                "name": "Утюг Artel ART-SI-9500, розово-белый",
-                "price": 40960000,
-                "quantity": 100,
-                "raw_old_price": null,
-                "old_price": null,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1315/1758256703-photo_2025-09-19_09-38-14.jpg",
+                "slug": "stiraljnaya-mashina-artel-se25-mini-beliy-1754573298",
+                "name": "Стиральная машина Artel SE25 Mini, белый",
+                "price": 69900000,
+                "quantity": 99,
+                "raw_old_price": 99900000,
+                "old_price": 99900000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1315/1754564817-photo_2025-08-07_16-03-01.jpg",
                 "has_video_links": false,
                 "label": null,
-                "discount": null,
-                "partner": {
-                    "id": 1315,
-                    "name": "ZUZU STORE"
-                },
-                "condition": {
-                    "id": 40268,
-                    "duration": 24,
-                    "commission": 75,
-                    "prepayment": 0
-                },
-                "bnpl_details": null,
-                "purchase_restrictions": null
-            },
-            {
-                "offer_id": null,
-                "moderated_offer_id": "da357da8-4cba-4f3f-852a-c778beea9fcc",
-                "product_id": null,
-                "slug": "utyug-artel-art-si-9501-siniy-1758262336",
-                "name": "Утюг Artel ART-SI-9501, Синий",
-                "price": 40960000,
-                "quantity": 100,
-                "raw_old_price": null,
-                "old_price": null,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1315/1758257292-0df13eaf-a855-4348-a6e1-82e1127852ed_Монтажная-область-11300.jpg",
-                "has_video_links": false,
-                "label": null,
-                "discount": null,
+                "discount": -30,
                 "partner": {
                     "id": 1315,
                     "name": "ZUZU STORE"
@@ -1077,13 +1069,40 @@
                 "slug": "blender-blackton-bt-hb1033ss-ch-rniy-1754909535",
                 "name": "Блендер Blackton Bt HB1033SS, чёрный",
                 "price": 39900000,
-                "quantity": 100,
+                "quantity": 98,
                 "raw_old_price": 45000000,
                 "old_price": 45000000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1315/1755776101-photo_2025-08-21_16-34-14.jpg",
                 "has_video_links": false,
                 "label": null,
                 "discount": -11,
+                "partner": {
+                    "id": 1315,
+                    "name": "ZUZU STORE"
+                },
+                "condition": {
+                    "id": 40268,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "b119801e-b544-4fd1-8f8e-eab0b75c7953",
+                "product_id": null,
+                "slug": "blender-blackton-bt-hb401s-beliy-1754656824",
+                "name": "Блендер Blackton Bt HB401S , белый",
+                "price": 49900000,
+                "quantity": 4,
+                "raw_old_price": null,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1315/1754656465-allifnp8jagtsidu05dkiokb5gdwoeeo.jpg",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
                 "partner": {
                     "id": 1315,
                     "name": "ZUZU STORE"
@@ -1180,45 +1199,18 @@
             },
             {
                 "offer_id": null,
-                "moderated_offer_id": "94f5dd05-5564-4b1a-a9f4-b0d9c7f42fae",
+                "moderated_offer_id": "1dd6cf88-1a26-4b24-8f6f-32612ecc7c34",
                 "product_id": null,
-                "slug": "kofevarka-bq-cm1004-staljnoy-1754909562",
-                "name": "Кофеварка BQ  CM1004, стальной",
-                "price": 102000000,
-                "quantity": 3,
-                "raw_old_price": 155000000,
-                "old_price": 155000000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1315/1754894592-19.jpg",
+                "slug": "stuljchik-dlya-kormleniya-bq-bch003-rozoviy-1754988664",
+                "name": " Стульчик для кормления BQ BCH003, розовый",
+                "price": 33400000,
+                "quantity": 100,
+                "raw_old_price": 49000000,
+                "old_price": 49000000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1315/1754909870-photo_2025-08-11_15-57-32.jpg",
                 "has_video_links": false,
                 "label": null,
-                "discount": -34,
-                "partner": {
-                    "id": 1315,
-                    "name": "ZUZU STORE"
-                },
-                "condition": {
-                    "id": 40268,
-                    "duration": 24,
-                    "commission": 75,
-                    "prepayment": 0
-                },
-                "bnpl_details": null,
-                "purchase_restrictions": null
-            },
-            {
-                "offer_id": null,
-                "moderated_offer_id": "928308c6-2447-4119-9d9c-1860225417ef",
-                "product_id": null,
-                "slug": "kofevarka-bq-gr2002-staljnoy-1754909564",
-                "name": "Кофеварка BQ GR2002, стальной",
-                "price": 89000000,
-                "quantity": 2,
-                "raw_old_price": 139900000,
-                "old_price": 139900000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1315/1754895777-25.jpg",
-                "has_video_links": false,
-                "label": null,
-                "discount": -36,
+                "discount": -31,
                 "partner": {
                     "id": 1315,
                     "name": "ZUZU STORE"
@@ -1277,7 +1269,7 @@
                 "slug": "rulj-bmw-f10-cherniy-1744894876",
                 "name": "Руль BMW F10 , черный",
                 "price": 229432000,
-                "quantity": 15,
+                "quantity": 14,
                 "raw_old_price": null,
                 "old_price": null,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1277/1744186207-photo_2025-04-08_08-12-18-Photoroom.jpg",
@@ -1298,25 +1290,25 @@
                 "purchase_restrictions": null
             },
             {
-                "offer_id": 716907,
-                "moderated_offer_id": null,
-                "product_id": 50638,
-                "slug": "antiradar-neoline-x-cop-7700s-black-neoline",
-                "name": "Радар-детектор Neoline X-COP 7700S, черный",
-                "price": 209600000,
-                "quantity": 23,
-                "raw_old_price": 244680000,
-                "old_price": 244680000,
-                "image_path": "https://s3.fortifai.uz/shop/rand/8f/b0/43/8fb043c4-cb3e-4260-8e3c-314a7c6415c4.jpg",
+                "offer_id": null,
+                "moderated_offer_id": "2f574e1a-cd5c-4b7d-8641-7ce99b9d0528",
+                "product_id": null,
+                "slug": "radar-detektor-neoline-x-cop-7700s-cherniy-1751610448",
+                "name": "Радар-детектор Neoline X-COP 7700s , черный",
+                "price": 179200000,
+                "quantity": 2,
+                "raw_old_price": null,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1312/1751608020-7700S neo.png",
                 "has_video_links": false,
                 "label": null,
-                "discount": -14,
+                "discount": null,
                 "partner": {
-                    "id": 139,
-                    "name": "JOYBOX"
+                    "id": 1312,
+                    "name": "WAK DISTRIBUTION"
                 },
                 "condition": {
-                    "id": 40246,
+                    "id": 39108,
                     "duration": 24,
                     "commission": 75,
                     "prepayment": 0
@@ -1352,33 +1344,6 @@
                 "purchase_restrictions": null
             },
             {
-                "offer_id": 716905,
-                "moderated_offer_id": null,
-                "product_id": 74351,
-                "slug": "antiradar-neoline-x-cop-8800s-wi-fi-black-neoline",
-                "name": "Радар-детектор Neoline X-COP 8800s WI-FI, черный",
-                "price": 292100000,
-                "quantity": 44,
-                "raw_old_price": 325650000,
-                "old_price": 325650000,
-                "image_path": "https://s3.fortifai.uz/shop/products/ESfOihm8RCOndXsSSKc650o4i7OebLf5YJ4bJ1ZJ.png",
-                "has_video_links": false,
-                "label": null,
-                "discount": -10,
-                "partner": {
-                    "id": 139,
-                    "name": "JOYBOX"
-                },
-                "condition": {
-                    "id": 40246,
-                    "duration": 24,
-                    "commission": 75,
-                    "prepayment": 0
-                },
-                "bnpl_details": null,
-                "purchase_restrictions": null
-            },
-            {
                 "offer_id": null,
                 "moderated_offer_id": "63a26e60-efb7-455a-93c9-e7e39cbbadb0",
                 "product_id": null,
@@ -1398,6 +1363,33 @@
                 },
                 "condition": {
                     "id": 37164,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": 716903,
+                "moderated_offer_id": null,
+                "product_id": 74391,
+                "slug": "antiradar-neoline-x-cop-9700s-wi-fi-black-neoline",
+                "name": "Видеорегистратор с радар-детектором Neoline X-COP 9700S Wi-Fi, черный",
+                "price": 327500000,
+                "quantity": 18,
+                "raw_old_price": 379080000,
+                "old_price": 379080000,
+                "image_path": "https://s3.fortifai.uz/shop/products/0PyHqOcsJgcluPqSObUK1p7GFnuelq0J1cS14pWP.png",
+                "has_video_links": false,
+                "label": null,
+                "discount": -13,
+                "partner": {
+                    "id": 139,
+                    "name": "JOYBOX"
+                },
+                "condition": {
+                    "id": 40246,
                     "duration": 24,
                     "commission": 75,
                     "prepayment": 0
@@ -1499,6 +1491,33 @@
             },
             {
                 "offer_id": null,
+                "moderated_offer_id": "12fbba31-3a24-49cb-817e-390266ab065c",
+                "product_id": null,
+                "slug": "detskoe-bodi-s-korotkim-rukavom-dlya-maljchika-i-devochki-tonkiy-trikotazh-suprem-100-hlopok-3-6-mes-korichneviy-1747738342",
+                "name": "Детское боди с коротким рукавом для мальчика и девочки тонкий трикотаж супрем 100% хлопок 3-6 мес, коричневый",
+                "price": 3300000,
+                "quantity": 3,
+                "raw_old_price": null,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1302/1747734350-Body_plants-q2.png",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 1302,
+                    "name": "BABY MAHALLA"
+                },
+                "condition": {
+                    "id": 19179,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
                 "moderated_offer_id": "053a70d8-a536-4f14-bd62-ef68bcccc07f",
                 "product_id": null,
                 "slug": "detskie-podguzniki-prima-3-4-9-kg-62-sht-1756878324",
@@ -1519,33 +1538,6 @@
                     "id": 41192,
                     "duration": 3,
                     "commission": 15,
-                    "prepayment": 0
-                },
-                "bnpl_details": null,
-                "purchase_restrictions": null
-            },
-            {
-                "offer_id": null,
-                "moderated_offer_id": "12fbba31-3a24-49cb-817e-390266ab065c",
-                "product_id": null,
-                "slug": "detskoe-bodi-s-korotkim-rukavom-dlya-maljchika-i-devochki-tonkiy-trikotazh-suprem-100-hlopok-3-6-mes-korichneviy-1747738342",
-                "name": "Детское боди с коротким рукавом для мальчика и девочки тонкий трикотаж супрем 100% хлопок 3-6 мес, коричневый",
-                "price": 3300000,
-                "quantity": 4,
-                "raw_old_price": null,
-                "old_price": null,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1302/1747734350-Body_plants-q2.png",
-                "has_video_links": false,
-                "label": null,
-                "discount": null,
-                "partner": {
-                    "id": 1302,
-                    "name": "BABY MAHALLA"
-                },
-                "condition": {
-                    "id": 19179,
-                    "duration": 24,
-                    "commission": 75,
                     "prepayment": 0
                 },
                 "bnpl_details": null,
@@ -1595,10 +1587,10 @@
                 "product_id": null,
                 "slug": "paroochistitelj-karcher-sc-2-easyfix-beliy-1756189786",
                 "name": "Пароочиститель Karcher SC 2 EasyFix, Белый",
-                "price": 167700000,
-                "quantity": 14,
-                "raw_old_price": 215000000,
-                "old_price": 215000000,
+                "price": 215000000,
+                "quantity": 15,
+                "raw_old_price": null,
+                "old_price": null,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1320/1752131268-1080x1440-1.jpg",
                 "has_video_links": false,
                 "label": {
@@ -1606,7 +1598,7 @@
                     "text_ru": "суперцена",
                     "text_uz": "ajoyib narx"
                 },
-                "discount": -22,
+                "discount": null,
                 "partner": {
                     "id": 1320,
                     "name": "Karcher"
@@ -1626,14 +1618,14 @@
                 "product_id": null,
                 "slug": "pilesos-karcher-wd-3-zheltiy-1752055226",
                 "name": "Пылесос Karcher WD 3, желтый",
-                "price": 198750000,
+                "price": 265000000,
                 "quantity": 4,
-                "raw_old_price": 265000000,
-                "old_price": 265000000,
+                "raw_old_price": null,
+                "old_price": null,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1320/1752054218-1080x1440-1.jpg",
                 "has_video_links": false,
                 "label": null,
-                "discount": -25,
+                "discount": null,
                 "partner": {
                     "id": 1320,
                     "name": "Karcher"
@@ -1653,14 +1645,14 @@
                 "product_id": null,
                 "slug": "pilesos-karcher-wd-2-plus-s-zheltiy-1752048802",
                 "name": "Пылесос Karcher WD 2 Plus S, желтый",
-                "price": 164250000,
+                "price": 219000000,
                 "quantity": 2,
-                "raw_old_price": 219000000,
-                "old_price": 219000000,
+                "raw_old_price": null,
+                "old_price": null,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1320/1756364469-1080x1440-WD-2-Plus-S-V-15418-1.jpg",
                 "has_video_links": false,
                 "label": null,
-                "discount": -25,
+                "discount": null,
                 "partner": {
                     "id": 1320,
                     "name": "Karcher"
@@ -1772,14 +1764,41 @@
                 "product_id": null,
                 "slug": "smartfon-infinix-note-50-pro-12-256-gb-racing-edition-1749549558",
                 "name": "Смартфон Infinix Note 50 Pro 12/256 ГБ, Racing Edition",
-                "price": 339500000,
-                "quantity": 22,
-                "raw_old_price": null,
-                "old_price": null,
+                "price": 329000000,
+                "quantity": 14,
+                "raw_old_price": 339500000,
+                "old_price": 339500000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-139/1749546624-1212412414.png",
                 "has_video_links": true,
                 "label": null,
-                "discount": null,
+                "discount": -3,
+                "partner": {
+                    "id": 139,
+                    "name": "JOYBOX"
+                },
+                "condition": {
+                    "id": 40246,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "f8e05b5e-26dc-4393-a5ce-d876bf56a2a5",
+                "product_id": null,
+                "slug": "smartfon-infinix-smart-10-4-128-gb-sleek-black-1751542134",
+                "name": "Смартфон Infinix SMART 10 4/128 ГБ, Sleek Black",
+                "price": 133330000,
+                "quantity": 48,
+                "raw_old_price": 180000000,
+                "old_price": 180000000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-139/1751540594-Smart 10 Black.png",
+                "has_video_links": false,
+                "label": null,
+                "discount": -25,
                 "partner": {
                     "id": 139,
                     "name": "JOYBOX"
@@ -1800,7 +1819,7 @@
                 "slug": "smartfon-infinix-smart-10-4-128-gb-titanium-silver-1751542098",
                 "name": "Смартфон Infinix SMART 10 4/128 ГБ, Titanium Silver",
                 "price": 133330000,
-                "quantity": 6,
+                "quantity": 41,
                 "raw_old_price": 180000000,
                 "old_price": 180000000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-139/1751540772-Smart 10 White.png",
@@ -1827,7 +1846,7 @@
                 "slug": "smartfon-infinix-smart-10-4-128-gb-iris-blue-1751542298",
                 "name": "Смартфон Infinix SMART 10 4/128 ГБ, Iris Blue",
                 "price": 133330000,
-                "quantity": 27,
+                "quantity": 51,
                 "raw_old_price": 180000000,
                 "old_price": 180000000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-139/1751540559-Smart 10 Blue.png",
@@ -1849,15 +1868,15 @@
             },
             {
                 "offer_id": null,
-                "moderated_offer_id": "69a61d58-9315-4828-a73b-372db7391a6a",
+                "moderated_offer_id": "296d4559-ced0-4ea8-9f0d-e56a166da6c8",
                 "product_id": null,
-                "slug": "smartfon-infinix-gt-30-pro-12-256-gb-beliy-1750764136",
-                "name": "Смартфон Infinix GT 30 Pro 12/256 ГБ, белый",
+                "slug": "smartfon-infinix-gt-30-pro-12-256-gb-seriy-1750764212",
+                "name": "Смартфон Infinix GT 30 Pro 12/256 ГБ, серый",
                 "price": 454500000,
-                "quantity": 20,
+                "quantity": 2,
                 "raw_old_price": 510000000,
                 "old_price": 510000000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-139/1750855024-GT 30 PRO White (1).png",
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-139/1750855064-GT 30 PRO Ash (1).png",
                 "has_video_links": true,
                 "label": null,
                 "discount": -10,
@@ -1876,45 +1895,18 @@
             },
             {
                 "offer_id": null,
-                "moderated_offer_id": "022af520-7135-437b-8ab5-3f2454e04211",
+                "moderated_offer_id": "69a61d58-9315-4828-a73b-372db7391a6a",
                 "product_id": null,
-                "slug": "smartfon-infinix-gt-30-pro-12-256-gb-cherniy-1750856008",
-                "name": "Смартфон Infinix GT 30 Pro 12/256 ГБ, черный",
-                "price": 489000000,
-                "quantity": 10,
-                "raw_old_price": 540000000,
-                "old_price": 540000000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-139/1750855131-GT 30 PRO Black.png",
+                "slug": "smartfon-infinix-gt-30-pro-12-256-gb-beliy-1750764136",
+                "name": "Смартфон Infinix GT 30 Pro 12/256 ГБ, белый",
+                "price": 454500000,
+                "quantity": 16,
+                "raw_old_price": 510000000,
+                "old_price": 510000000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-139/1750855024-GT 30 PRO White (1).png",
                 "has_video_links": true,
                 "label": null,
-                "discount": -9,
-                "partner": {
-                    "id": 139,
-                    "name": "JOYBOX"
-                },
-                "condition": {
-                    "id": 40246,
-                    "duration": 24,
-                    "commission": 75,
-                    "prepayment": 0
-                },
-                "bnpl_details": null,
-                "purchase_restrictions": null
-            },
-            {
-                "offer_id": null,
-                "moderated_offer_id": "323aa0c8-71b2-42af-91ee-3b3bce1afe90",
-                "product_id": null,
-                "slug": "smartfon-infinix-smart-10-plus-4-128-gb-sleek-black-1751543926",
-                "name": "Смартфон Infinix SMART 10 Plus 4/128 ГБ, Sleek Black",
-                "price": 149000000,
-                "quantity": 31,
-                "raw_old_price": 190000000,
-                "old_price": 190000000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-139/1751542875-Smart 10Plus Black.png",
-                "has_video_links": false,
-                "label": null,
-                "discount": -21,
+                "discount": -10,
                 "partner": {
                     "id": 139,
                     "name": "JOYBOX"
@@ -2146,7 +2138,7 @@
                 "quantity": 1,
                 "raw_old_price": 250000000,
                 "old_price": 250000000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1310/1754984241-COUGAR GREY .png",
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1310/1759470683-КРЕСЛО 1118-GREY (28) (1).png",
                 "has_video_links": false,
                 "label": null,
                 "discount": -24,
@@ -2170,10 +2162,10 @@
                 "slug": "igrovoe-kreslo-switch-pro-5727-beliy-1752575988",
                 "name": "Игровое кресло Switch Pro 5727, белый",
                 "price": 210000000,
-                "quantity": 3,
+                "quantity": 2,
                 "raw_old_price": 270000000,
                 "old_price": 270000000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1310/1754984408-КРЕСЛО MC047A (51) (1).png",
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1310/1754375087-5727-2pro .jpg",
                 "has_video_links": false,
                 "label": null,
                 "discount": -22,
@@ -2197,7 +2189,7 @@
                 "slug": "kresla-chairman-091-6b-seriy-1750248848",
                 "name": "Кресла CHAIRMAN 091-6B, серый",
                 "price": 72900000,
-                "quantity": 6,
+                "quantity": 5,
                 "raw_old_price": null,
                 "old_price": null,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1310/1752058276-Кресло-MC211-B (15).png",
@@ -2224,7 +2216,7 @@
                 "slug": "kresla-chairman-1115-cherniy-1750224484",
                 "name": "Кресла CHAIRMAN 1115, черный",
                 "price": 140000000,
-                "quantity": 6,
+                "quantity": 7,
                 "raw_old_price": null,
                 "old_price": null,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1310/1755069444-КРЕСЛО MC047A (63) (1).png",
@@ -2251,7 +2243,7 @@
                 "slug": "kreslo-chair-man-281-cherniy-1750059926",
                 "name": "Кресло CHAIR MAN 281, черный",
                 "price": 170000000,
-                "quantity": 10,
+                "quantity": 8,
                 "raw_old_price": null,
                 "old_price": null,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1310/1755067772-КРЕСЛО MC047A (55) (1).png",
@@ -2343,40 +2335,13 @@
                 "slug": "blender-sokany-wk-1704s-2-cherniy",
                 "name": "Блендер SOKANY WK-1704S-2, черный",
                 "price": 35000000,
-                "quantity": 3,
+                "quantity": 2,
                 "raw_old_price": 42000000,
                 "old_price": 42000000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1235/1739534964-Dark GraySimple Product Catalog Instagram Post (6) (1).png",
                 "has_video_links": false,
                 "label": null,
                 "discount": -16,
-                "partner": {
-                    "id": 1235,
-                    "name": "SOKANY"
-                },
-                "condition": {
-                    "id": 31745,
-                    "duration": 24,
-                    "commission": 75,
-                    "prepayment": 0
-                },
-                "bnpl_details": null,
-                "purchase_restrictions": null
-            },
-            {
-                "offer_id": null,
-                "moderated_offer_id": "036af610-1eda-447d-9e2f-04d29b3ea211",
-                "product_id": null,
-                "slug": "blender-sokany-sk-1726-korichneviy-1747633950",
-                "name": "Блендер SOKANY SK-1726 , коричневый",
-                "price": 40000000,
-                "quantity": 5,
-                "raw_old_price": null,
-                "old_price": null,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1235/1747314421-1 (1).png",
-                "has_video_links": false,
-                "label": null,
-                "discount": null,
                 "partner": {
                     "id": 1235,
                     "name": "SOKANY"
@@ -2419,12 +2384,39 @@
             },
             {
                 "offer_id": null,
+                "moderated_offer_id": "036af610-1eda-447d-9e2f-04d29b3ea211",
+                "product_id": null,
+                "slug": "blender-sokany-sk-1726-korichneviy-1747633950",
+                "name": "Блендер SOKANY SK-1726 , коричневый",
+                "price": 40000000,
+                "quantity": 5,
+                "raw_old_price": null,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1235/1747314421-1 (1).png",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 1235,
+                    "name": "SOKANY"
+                },
+                "condition": {
+                    "id": 31745,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
                 "moderated_offer_id": "70a97d2e-623c-41c6-a40d-af10bbad1beb",
                 "product_id": null,
                 "slug": "elektrogrilj-sokany-sk-zg-8042-seriy",
                 "name": "Электрогриль SOKANY SK-ZG-8042, серый",
                 "price": 140000000,
-                "quantity": 4,
+                "quantity": 3,
                 "raw_old_price": 168000000,
                 "old_price": 168000000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1235/1739551095-Dark GraySimple Product Catalog Instagram Post (16).png",
@@ -2451,7 +2443,7 @@
                 "slug": "ployka-sokany-sk-667-cherniy",
                 "name": "Плойка SOKANY SK-667, черный",
                 "price": 30000000,
-                "quantity": 2,
+                "quantity": 1,
                 "raw_old_price": 36000000,
                 "old_price": 36000000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1235/1734258791-IMG_1672.PNG",
@@ -2474,6 +2466,179 @@
         ]
     },
     {
+        "id": "ed184e95-388e-439b-be8d-5828a709007b",
+        "titles": {
+            "ru": "Парфюмерия ",
+            "uz": "Parfyumeriya"
+        },
+        "slug": "Parfyumeriya",
+        "priority_placement": 45,
+        "offers": [
+            {
+                "offer_id": null,
+                "moderated_offer_id": "006f65c5-e5bb-4501-a4d4-bbff9bcbe739",
+                "product_id": null,
+                "slug": "zhenskaya-parfyumernaya-voda-hfc-closed-gate-75-ml-1752655506",
+                "name": "Женская парфюмерная вода HFC Closed Gate, 75 мл",
+                "price": 298000000,
+                "quantity": 38,
+                "raw_old_price": null,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1279/1752643228-1.png",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 1279,
+                    "name": "EPLAZA 2"
+                },
+                "condition": {
+                    "id": 23230,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "2a4c9358-9f1d-4c92-8181-0b40c37dc856",
+                "product_id": null,
+                "slug": "zhenskaya-parfyumernaya-voda-louis-vuitton-le-jour-se-leve-100-ml-1747213992",
+                "name": "Женская парфюмерная вода  Louis Vuitton Le Jour se Leve, 100 мл",
+                "price": 617500000,
+                "quantity": 40,
+                "raw_old_price": null,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1279/1747211747-1.png",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 1279,
+                    "name": "EPLAZA 2"
+                },
+                "condition": {
+                    "id": 23230,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "62ccbd87-ca3d-48c6-934f-2502091b81f4",
+                "product_id": null,
+                "slug": "muzhskaya-parfyumernaya-voda-bvlgari-tygar-x-refik-anadol-125-ml-1751522704",
+                "name": "Мужская парфюмерная вода BVLGARI Tygar x Refik Anadol, 125 мл",
+                "price": 783500000,
+                "quantity": 40,
+                "raw_old_price": null,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1279/1751521564-1.jpg",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 1279,
+                    "name": "EPLAZA 2"
+                },
+                "condition": {
+                    "id": 23230,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "863b5354-e6f0-456e-9687-3b70b5074be5",
+                "product_id": null,
+                "slug": "uniseks-parfyumernaya-voda-louis-vuitton-elves-100-ml-1747807728",
+                "name": "Унисекс парфюмерная вода Louis Vuitton eLVes, 100 мл",
+                "price": 648900000,
+                "quantity": 40,
+                "raw_old_price": null,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1279/1747807225-1.png",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 1279,
+                    "name": "EPLAZA 2"
+                },
+                "condition": {
+                    "id": 23230,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "00956070-f28f-4307-a042-c4063ee2aa86",
+                "product_id": null,
+                "slug": "uniseks-parfyumernaya-voda-amouage-opus-v-woods-symphony-100-ml-1739772175",
+                "name": "Унисекс парфюмерная вода Amouage Opus V Woods Symphony, 100 мл",
+                "price": 319900000,
+                "quantity": 40,
+                "raw_old_price": null,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1077/1739771617-1.jpg",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 1279,
+                    "name": "EPLAZA 2"
+                },
+                "condition": {
+                    "id": 23230,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "9bf0fc81-d337-43cc-a228-ea9ee9f1c4be",
+                "product_id": null,
+                "slug": "uniseks-parfyum-orto-parisi-megamare-50-ml-1739443102",
+                "name": "Унисекс парфюм Orto Parisi Megamare, 50 мл",
+                "price": 255500000,
+                "quantity": 36,
+                "raw_old_price": null,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1077/1739426069-1.jpg",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 1279,
+                    "name": "EPLAZA 2"
+                },
+                "condition": {
+                    "id": 23230,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            }
+        ]
+    },
+    {
         "id": "8041c54f-9703-4009-8069-da52dd1b68b5",
         "titles": {
             "ru": "Надёжный помощник  в дороге",
@@ -2482,6 +2647,33 @@
         "slug": "Yolda-ishonchli-hamroh",
         "priority_placement": 46,
         "offers": [
+            {
+                "offer_id": null,
+                "moderated_offer_id": "7cdd4be2-e5ad-4160-9ee7-530275d84bed",
+                "product_id": null,
+                "slug": "radar-detektor-inspector-star-air-wifi-cherniy-1758865886",
+                "name": "Радар-детектор Inspector  Star Air WiFi , черный",
+                "price": 249900000,
+                "quantity": 98,
+                "raw_old_price": null,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1124/1758777004-star air wifi.jpg",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 1124,
+                    "name": "ASL TEXNO"
+                },
+                "condition": {
+                    "id": 26172,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
             {
                 "offer_id": null,
                 "moderated_offer_id": "04a8e295-5f5d-4227-9f18-d3b3fd738639",
@@ -2528,9 +2720,9 @@
                     "name": "MOBS"
                 },
                 "condition": {
-                    "id": 30585,
-                    "duration": 18,
-                    "commission": 56,
+                    "id": 30586,
+                    "duration": 24,
+                    "commission": 75,
                     "prepayment": 0
                 },
                 "bnpl_details": null,
@@ -2543,7 +2735,7 @@
                 "slug": "antiradar-neoline-x-cop-9700s-wi-fi-black-neoline",
                 "name": "Видеорегистратор с радар-детектором Neoline X-COP 9700S Wi-Fi, черный",
                 "price": 327500000,
-                "quantity": 5,
+                "quantity": 18,
                 "raw_old_price": 379080000,
                 "old_price": 379080000,
                 "image_path": "https://s3.fortifai.uz/shop/products/0PyHqOcsJgcluPqSObUK1p7GFnuelq0J1cS14pWP.png",
@@ -2556,33 +2748,6 @@
                 },
                 "condition": {
                     "id": 40246,
-                    "duration": 24,
-                    "commission": 75,
-                    "prepayment": 0
-                },
-                "bnpl_details": null,
-                "purchase_restrictions": null
-            },
-            {
-                "offer_id": null,
-                "moderated_offer_id": "2008b176-1be8-4b85-a731-737eca30de97",
-                "product_id": null,
-                "slug": "radar-detektor-neoline-x-cop-9700s-cherniy-1751611698",
-                "name": "Радар-детектор Neoline X-COP 9700s , черный",
-                "price": 286500000,
-                "quantity": 2,
-                "raw_old_price": 327500000,
-                "old_price": 327500000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1312/1751610649-9700s.png",
-                "has_video_links": false,
-                "label": null,
-                "discount": -12,
-                "partner": {
-                    "id": 1312,
-                    "name": "WAK DISTRIBUTION"
-                },
-                "condition": {
-                    "id": 39108,
                     "duration": 24,
                     "commission": 75,
                     "prepayment": 0
@@ -2647,13 +2812,186 @@
         ]
     },
     {
+        "id": "abb615a7-3eb8-11ef-b057-fa163eee6b46",
+        "titles": {
+            "ru": "Тепло для вашего дома",
+            "uz": "Uyingiz uchun isitgich"
+        },
+        "slug": "isitgichlar-1",
+        "priority_placement": 84,
+        "offers": [
+            {
+                "offer_id": 731721,
+                "moderated_offer_id": null,
+                "product_id": 44484,
+                "slug": "elektricheskiy-obogrevatelj-artel-elektricheskiy-masleniy-modelj-sh-oh-1372-moschnostj-2500-vt-13-sekciy-radiatora-gofrakorobka--artel-1736837742-44484",
+                "name": "Обогреватель Artel ART-OH-1372, черный",
+                "price": 89900000,
+                "quantity": 100,
+                "raw_old_price": 0,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/rand/eb/78/72/eb7872c4-3435-45ad-9977-225eecf398a3.jpg",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 4,
+                    "name": "ASAN Store"
+                },
+                "condition": {
+                    "id": 40268,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "010f4071-dac9-4724-a9f4-76fecde3282c",
+                "product_id": null,
+                "slug": "obogrevatelj-artel-art-oh-1337-beliy-1759393266",
+                "name": "Обогреватель Artel ART-OH-1337 , белый",
+                "price": 89900000,
+                "quantity": 100,
+                "raw_old_price": 129900000,
+                "old_price": 129900000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1189/1759391252-fykmy.PNG",
+                "has_video_links": false,
+                "label": null,
+                "discount": -30,
+                "partner": {
+                    "id": 1189,
+                    "name": "BIRINCHI"
+                },
+                "condition": {
+                    "id": 40268,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "10362877-ede7-498a-89ff-c354bf6e2957",
+                "product_id": null,
+                "slug": "obogrevatelj-aiwa-hy-b9f-11-cherniy",
+                "name": "Обогреватель Aiwa HY-B9F-11, черный",
+                "price": 111800000,
+                "quantity": 3,
+                "raw_old_price": null,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1220/1734940758-HY-B9F-15.png",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 1220,
+                    "name": "ikarvon.uz"
+                },
+                "condition": {
+                    "id": 30486,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "1a3797ba-7942-455d-a7c1-af98f1972b05",
+                "product_id": null,
+                "slug": "obogrevatelj-mtx-och-2000-98303-beliy",
+                "name": "Обогреватель MTX och-2000-98303, белый ",
+                "price": 925000000,
+                "quantity": 5,
+                "raw_old_price": null,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1220/1734940562-MTX 98303.jpg",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 1220,
+                    "name": "ikarvon.uz"
+                },
+                "condition": {
+                    "id": 30486,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "12e224fa-fe72-45a3-8035-663a88de2ef0",
+                "product_id": null,
+                "slug": "obogrevatelj-denzel-xce-1500b-98128-cherniy",
+                "name": "Обогреватель Denzel  XCE-1500B-98128, черный ",
+                "price": 114800000,
+                "quantity": 5,
+                "raw_old_price": null,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1220/1734939811-XCE-1500B.jpg",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 1220,
+                    "name": "ikarvon.uz"
+                },
+                "condition": {
+                    "id": 30486,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "5dd14059-1eef-4aae-b8c5-02135025bea7",
+                "product_id": null,
+                "slug": "obogrevatelj-comfort-hy-b2f-13-cherniy",
+                "name": "Обогреватель Comfort HY-B2F-13, черный",
+                "price": 99900000,
+                "quantity": 2,
+                "raw_old_price": 145000000,
+                "old_price": 145000000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-654/1732098080-photo_2024-11-19_14-23-05.jpg",
+                "has_video_links": false,
+                "label": null,
+                "discount": -31,
+                "partner": {
+                    "id": 654,
+                    "name": "M-STORES"
+                },
+                "condition": {
+                    "id": 40169,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            }
+        ]
+    },
+    {
         "id": "942477f0-b022-4e1a-8a0e-499ee16d4bdc",
         "titles": {
             "ru": "Инструменты для строительства",
             "uz": "Qurilish uchun asbob-uskunalar"
         },
         "slug": "Qurilish-uchun-asbob-uskunalar-2",
-        "priority_placement": 221,
+        "priority_placement": 220,
         "offers": [
             {
                 "offer_id": null,
@@ -2743,7 +3081,7 @@
                 "slug": "pila-diskovaya-total-tsli18511-zeleniy",
                 "name": "Пила дисковая TOTAL TSLI18511, зеленый",
                 "price": 188800000,
-                "quantity": 3,
+                "quantity": 2,
                 "raw_old_price": 200200000,
                 "old_price": 200200000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1220/1731932145-33.jpg",
@@ -2796,14 +3134,14 @@
                 "product_id": null,
                 "slug": "torcovochnaya-pila-ingco-bm2s24007-zheltiy-1739261984",
                 "name": "Торцовочная пила Ingco BM2S24007, желтый ",
-                "price": 502500000,
+                "price": 452500000,
                 "quantity": 2,
-                "raw_old_price": null,
-                "old_price": null,
+                "raw_old_price": 502500000,
+                "old_price": 502500000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1220/1739255048-13.jpg",
                 "has_video_links": false,
                 "label": null,
-                "discount": null,
+                "discount": -9,
                 "partner": {
                     "id": 1220,
                     "name": "ikarvon.uz"
@@ -2826,7 +3164,7 @@
             "uz": "Ray-Ban Meta Aqlli ko‘zoynaklari"
         },
         "slug": "Ray-Ban-Meta-Aqlli-kozoynaklari",
-        "priority_placement": 226,
+        "priority_placement": 225,
         "offers": [
             {
                 "offer_id": null,
@@ -2834,14 +3172,14 @@
                 "product_id": null,
                 "slug": "umnie-ochki-ray-ban-meta-wayfarer-shiny-black-green-1749041090",
                 "name": "Умные очки Ray-Ban Meta Wayfarer Shiny Black, Green",
-                "price": 549900000,
-                "quantity": 30,
+                "price": 539900000,
+                "quantity": 29,
                 "raw_old_price": 650000000,
                 "old_price": 650000000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1265/1751284641-smart-okuliari-ray-ban-meta-wayfarer-standard-shiny-black-g-15-green-rw4006-601-71-50-22_67b08e47-a38e-4967-bac1-2d2806447552-1.png.jpg",
                 "has_video_links": true,
                 "label": null,
-                "discount": -15,
+                "discount": -16,
                 "partner": {
                     "id": 1327,
                     "name": "Ray-Ban Meta official"
@@ -2884,33 +3222,6 @@
             },
             {
                 "offer_id": null,
-                "moderated_offer_id": "16962d96-b9b1-4ed2-b22b-9b9240a3f3d6",
-                "product_id": null,
-                "slug": "umnie-ochki-oakley-meta-beliy-1755260822",
-                "name": "Умные очки Oakley Meta, белый",
-                "price": 999900000,
-                "quantity": 20,
-                "raw_old_price": 1299900000,
-                "old_price": 1299900000,
-                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1327/1755246382-0OW8002__800201__P21__shad__al1.jpg",
-                "has_video_links": true,
-                "label": null,
-                "discount": -23,
-                "partner": {
-                    "id": 1327,
-                    "name": "Ray-Ban Meta official"
-                },
-                "condition": {
-                    "id": 40268,
-                    "duration": 24,
-                    "commission": 75,
-                    "prepayment": 0
-                },
-                "bnpl_details": null,
-                "purchase_restrictions": null
-            },
-            {
-                "offer_id": null,
                 "moderated_offer_id": "42d82f71-8cae-4024-9ea1-7e78f1e654d6",
                 "product_id": null,
                 "slug": "umnie-ochki-ray-ban-meta-headliner-clear-to-grey-hameleon-matte-black-1749012904",
@@ -2938,12 +3249,39 @@
             },
             {
                 "offer_id": null,
+                "moderated_offer_id": "16962d96-b9b1-4ed2-b22b-9b9240a3f3d6",
+                "product_id": null,
+                "slug": "umnie-ochki-oakley-meta-beliy-1755260822",
+                "name": "Умные очки Oakley Meta, белый",
+                "price": 999900000,
+                "quantity": 20,
+                "raw_old_price": 1299900000,
+                "old_price": 1299900000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1327/1755246382-0OW8002__800201__P21__shad__al1.jpg",
+                "has_video_links": true,
+                "label": null,
+                "discount": -23,
+                "partner": {
+                    "id": 1327,
+                    "name": "Ray-Ban Meta official"
+                },
+                "condition": {
+                    "id": 40268,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
                 "moderated_offer_id": "a141d744-6ebf-484c-bb0d-2eaec6bbf7a6",
                 "product_id": null,
                 "slug": "umnie-ochki-ray-ban-meta-headliner-shiny-black-1749034618",
                 "name": " Умные очки Ray-Ban Meta Headliner, Shiny Black",
                 "price": 549900000,
-                "quantity": 19,
+                "quantity": 18,
                 "raw_old_price": 699900000,
                 "old_price": 699900000,
                 "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1265/1748962868-photo_2025-06-03_20-00-01.jpg",
@@ -2999,7 +3337,7 @@
             "uz": "BYD muddatli to'lovga"
         },
         "slug": "BYD-muddatli-to'lovga",
-        "priority_placement": 227,
+        "priority_placement": 226,
         "offers": [
             {
                 "offer_id": 713585,
@@ -3179,6 +3517,179 @@
                     "has_daily_payment": false,
                     "prepayment_amount": 7694973000
                 },
+                "purchase_restrictions": null
+            }
+        ]
+    },
+    {
+        "id": "38481113-ae05-425f-aea9-7dc00e5793ad",
+        "titles": {
+            "ru": "“Labbay” ответит Алисахон",
+            "uz": "Labbay deydi, Alisaxon"
+        },
+        "slug": "Labbay-deydi-Alisaxon",
+        "priority_placement": 236,
+        "offers": [
+            {
+                "offer_id": null,
+                "moderated_offer_id": "0ce0e69e-1bbc-4e67-9ded-32d950ae12c7",
+                "product_id": null,
+                "slug": "umnaya-kolonka-yandex-stanciya-mini-plyus-yndx-00020-krasniy-1756368278",
+                "name": "Умная колонка Yandex Станция мини плюс YNDX-00020, красный",
+                "price": 109900000,
+                "quantity": 1,
+                "raw_old_price": 121735000,
+                "old_price": 121735000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1232/1755764524-yandexred20 (1).png",
+                "has_video_links": false,
+                "label": null,
+                "discount": -9,
+                "partner": {
+                    "id": 1232,
+                    "name": "KUIKO"
+                },
+                "condition": {
+                    "id": 19876,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "14cc7c5b-2dbf-4278-990d-d23a368e98f8",
+                "product_id": null,
+                "slug": "umnaya-kolonka-yandex-stanciya-midi-s-zigbee-yndx-00054-rozoviy-1756815978",
+                "name": "Умная колонка Yandex станция Миди с Zigbee YNDX-00054, розовый",
+                "price": 219500000,
+                "quantity": 1,
+                "raw_old_price": 225000000,
+                "old_price": 225000000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1232/1756813034-zig54.png",
+                "has_video_links": false,
+                "label": null,
+                "discount": -2,
+                "partner": {
+                    "id": 1232,
+                    "name": "KUIKO"
+                },
+                "condition": {
+                    "id": 19876,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "051f3788-b1ef-4f75-a02f-e7e9f9c8bca9",
+                "product_id": null,
+                "slug": "umnaya-kolonka-yandex-stanciya-midi-s-alisoy-cherniy-1758778999",
+                "name": "Умная колонка Yandex Станция Миди с Алисой , Черный",
+                "price": 226700000,
+                "quantity": 5,
+                "raw_old_price": 255000000,
+                "old_price": 255000000,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-879/1758707090-curfeidpb7f8r31vr80g.jpg",
+                "has_video_links": false,
+                "label": null,
+                "discount": -11,
+                "partner": {
+                    "id": 879,
+                    "name": "TOP BRANDS"
+                },
+                "condition": {
+                    "id": 20458,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": null,
+                "moderated_offer_id": "690444cc-24e3-47e9-ae18-23c2de791dfa",
+                "product_id": null,
+                "slug": "umnaya-kolonka-yandex-stanciya-layt-2-yndx-00026-goluboy-1757414894",
+                "name": "Умная колонка Yandex Станция Лайт 2 YNDX-00026, голубой",
+                "price": 86900000,
+                "quantity": 2,
+                "raw_old_price": null,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/moderation/partner-1232/1756543817-blu (1).png",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 1232,
+                    "name": "KUIKO"
+                },
+                "condition": {
+                    "id": 19876,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": 707402,
+                "moderated_offer_id": null,
+                "product_id": 75127,
+                "slug": "umnaya-kolonka-yandeks-stanciya-midi-rozovaya-yandex-1",
+                "name": "Умная колонка Яндекс станция Миди, розовый",
+                "price": 217000000,
+                "quantity": 7,
+                "raw_old_price": 0,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/products/UxhhpNzyxu9JdUyjJuII8q3wUpvIrAhL5Utt6C9O.webp",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 139,
+                    "name": "JOYBOX"
+                },
+                "condition": {
+                    "id": 40246,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
+                "purchase_restrictions": null
+            },
+            {
+                "offer_id": 707401,
+                "moderated_offer_id": null,
+                "product_id": 75126,
+                "slug": "umnaya-kolonka-yandeks-stanciya-midi-oranzhev-yandex",
+                "name": "Умная колонка Яндекс станция Миди, оранжевый",
+                "price": 217000000,
+                "quantity": 9,
+                "raw_old_price": 0,
+                "old_price": null,
+                "image_path": "https://s3.fortifai.uz/shop/products/yzFdlCFXJ05mu8sVtV74yfWDK5En0DSm8oeJ12WT.webp",
+                "has_video_links": false,
+                "label": null,
+                "discount": null,
+                "partner": {
+                    "id": 139,
+                    "name": "JOYBOX"
+                },
+                "condition": {
+                    "id": 40246,
+                    "duration": 24,
+                    "commission": 75,
+                    "prepayment": 0
+                },
+                "bnpl_details": null,
                 "purchase_restrictions": null
             }
         ]
