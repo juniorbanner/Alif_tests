@@ -1,0 +1,9 @@
+{
+    "User-Agent": "python-requests/2.32.4",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Cookie": "cart=CfDJ8MImoHrCrTpFs4mbyO1FQC4Kmx%2Bk%2BTiAUT2m%2FS7m2DjNuSPaN6wqoieaSyzgAFEcf0HVCOCQWliTzxZLQq6aDkKW53ihf3UpR3rM2Yxyom3dd3RHNj26I5kUp2LdFKdrBCQYPP9DYkdX7bGHS75ltOtO6sy6o4ybuJo53pHVyCt1;",
+    "Content-Length": "100",
+    "Content-Type": "application/json"
+}

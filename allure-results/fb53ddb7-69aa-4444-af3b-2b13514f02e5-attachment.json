@@ -1,0 +1,14 @@
+{
+    "Date": "Wed, 24 Sep 2025 17:13:51 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "79",
+    "Connection": "keep-alive",
+    "Cache-Control": "no-store, no-cache",
+    "Content-Encoding": "br",
+    "Expires": "-1",
+    "Pragma": "no-cache",
+    "Set-Cookie": "cart=CfDJ8MImoHrCrTpFs4mbyO1FQC4Kmx%2Bk%2BTiAUT2m%2FS7m2DjNuSPaN6wqoieaSyzgAFEcf0HVCOCQWliTzxZLQq6aDkKW53ihf3UpR3rM2Yxyom3dd3RHNj26I5kUp2LdFKdrBCQYPP9DYkdX7bGHS75ltOtO6sy6o4ybuJo53pHVyCt1; path=/; secure; samesite=none; httponly",
+    "Vary": "Accept-Encoding",
+    "X-Logging": "False",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+}
